@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '在 Azure 机器学习中运行试验'
     module: '模块 4 - 集成 Azure Databricks 和 Azure 机器学习'
