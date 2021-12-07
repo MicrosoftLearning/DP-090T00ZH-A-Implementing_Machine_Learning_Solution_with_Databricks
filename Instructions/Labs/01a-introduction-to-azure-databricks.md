@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'Azure Databricks 入门'
     module: '模块 1 - Azure Databricks 简介'
