@@ -10,7 +10,7 @@ MLflow 是一个功能全面的模型跟踪和注册表系统。  在此练习�
 
 ## 先决条件
 
-开始本实验室之前，请完成 [**Azure Databricks 入门**](Instructions/Labs/01a-introduction-to-azure-databricks.md)实验室，设置 Azure Databricks 环境并导入所需的数据和笔记本****。若要使用 MLflow，需使用具有 **ML Databricks Runtime** 版本的计算群集，如设置实验室中所述。该运行时已包括 MLflow 的安装。
+开始本实验室之前，请完成 [**Azure Databricks 入门**](Instructions/Labs/01a-introduction-to-azure-databricks.md)实验室，设置 Azure Databricks 环境并导入所需的数据和笔记本。若要使用 MLflow，需使用具有 **ML Databricks Runtime** 版本的计算群集，如设置实验室中所述。该运行时已包括 MLflow 的安装。
 
 ## 使用 MLflow 跟踪试验
 
