@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '使用 Azure Databricks 进行分布式深度学习'
     module: '可选练习'

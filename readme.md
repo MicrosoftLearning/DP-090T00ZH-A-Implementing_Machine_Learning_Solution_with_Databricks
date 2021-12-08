@@ -1,4 +1,4 @@
-﻿# DP-090：使用 Microsoft Azure Databricks 实现机器学习解决方案
+# DP-090：使用 Microsoft Azure Databricks 实现机器学习解决方案
 
 - **你是 MCT 吗？** - 请查看[适用于 MCT 的 GitHub 用户指南](https://microsoftlearning.github.io/MCT-User-Guide/)
 - **是否需要手动生成实验室说明？** - 可在 [MicrosoftLearning/Docker-Build](https://github.com/MicrosoftLearning/Docker-Build) 存储库中找到说明

@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '在 Azure Databricks 中使用数据'
     module: '模块 1 - Azure Databricks 简介'
