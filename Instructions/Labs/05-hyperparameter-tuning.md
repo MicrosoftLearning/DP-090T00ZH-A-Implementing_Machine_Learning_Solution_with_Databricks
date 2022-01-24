@@ -91,7 +91,7 @@ lab:
 1. 在显示的边栏选项卡中，选择名称旁边的向下指向 V 形符号 (**v**)，然后选择“**导入**”。
 
 1. 在“**导入笔记本**”对话框中，从以下 URL 导入笔记本存档，注意系统会创建一个与存档同名的文件夹，其中包含两个笔记本：
-   - `https://github.com/MicrosoftLearning/dp-090-databricks-ml/blob/madiepev-add-modules/05%20-%20Hyperparameter%20Tuning.dbc`
+   - `https://github.com/MicrosoftLearning/dp-090-databricks-ml/blob/master/05%20-%20Hyperparameter%20Tuning.dbc`
 
 ## 探索自动化的 MLflow 超参数优化
 

@@ -53,7 +53,7 @@ Azure Databricks 是基于 Spark 的快速、简单、协作型分析服务。�
 
 1. 将文件上传到工作区后，选择“**使用 UI 创建表**”。然后，选择群集并选择“**预览表**”。
 
-1. 指定以下表属性，然后选择“**创建表**”。
+1. 指定以下表属性：
 
     - **表名称**：nyc_taxi
     - **在数据库中创建**：默认
@@ -62,6 +62,22 @@ Azure Databricks 是基于 Spark 的快速、简单、协作型分析服务。�
     - **第一行作为标题**： *已选中*
     - **推理模式**： *已选中*
     - **多行**： *取消选中*
+
+1. 为每一列设置适当的数据类型：找到 **passengerCount** 列。在下拉菜单中，将列设置为“**INT**”。
+
+    - passengerCount： **INT**
+    - tripDistance：**DOUBLE**
+    - hour_of_day： **INT**
+    - day_of_week：**INT**
+    - month_num：**INT**
+    - isPaidTimeOff：**BOOLEAN**
+    - snowDepth：**DOUBLE**
+    - precipTime：**DOUBLE**
+    - precipDepth：**DOUBLE**
+    - temperature：**DOUBLE**
+    - totalAmount：**DOUBLE**
+
+1. 单击“**创建表**”。
 
 1. 创建表后，请在工作区中查看。
 
