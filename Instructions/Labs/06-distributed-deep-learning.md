@@ -1,4 +1,4 @@
----
+﻿---
 lab:
     title: '使用 Azure Databricks 进行分布式深度学习'
     module: '可选练习'
@@ -47,13 +47,13 @@ lab:
 1. 在显示的边栏选项卡中，选择名称旁边的向下指向 V 形符号 (**v**)，然后选择“**导入**”。
 
 1. 在“**导入笔记本**”对话框中，从以下 URL 导入笔记本存档，注意系统会创建一个与存档同名的文件夹，其中包含两个笔记本：
-   - `https://github.com/MicrosoftLearning/dp-090-databricks-ml/blob/madiepev-add-modules/06%20-%20Distributed%20Deep%20Learning.dbc`
+   - `https://github.com/MicrosoftLearning/dp-090-databricks-ml/blob/master/06%20-%20Distributed%20Deep%20Learning.dbc`
 
 ## 探索分布式深度学习
 
 在此练习中，你将了解如何使用自动化的 MLflow 进行超参数优化。
 
-1. 在工作区的“**05 - 超参数优化**”文件夹中，打开“**1.0 自动化的 MLflow 超参数优化**”笔记本。
+1. 在工作区的“**06 - 分布式深度学习**”文件夹中，打开“**1.0 分布式深度学习**”笔记本。
 
 1. 在左上角的下拉菜单中，选择群集，将笔记本附加到该群集。*（或者，在未附加的笔记本中运行第一个单元时，系统会提示附加群集）。*
 
